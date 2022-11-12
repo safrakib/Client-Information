@@ -1,3 +1,5 @@
+<?php 
+
 class ClientInfo
 {
 public static function getClientIp()
@@ -137,3 +139,4 @@ public static function getClientIp()
     }
 
 }
+?>
